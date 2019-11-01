@@ -1,5 +1,6 @@
 name: Java CI
-runs-on: self-hosted
+runs-on: 
+pool : self-hosted
 
 on: [push]
 
