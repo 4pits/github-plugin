@@ -1,4 +1,4 @@
-Jenkins Github Plugin
+Jenkins Github Plugin . 
 ===================== 
 
 [![Coverage](https://img.shields.io/sonar/http/sonar.lanwen.ru/com.coravy.hudson.plugins.github:github/coverage.svg?style=flat)](http://sonar.lanwen.ru/dashboard/index?id=com.coravy.hudson.plugins.github:github)
