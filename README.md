@@ -36,6 +36,8 @@ Run
 	
 to create the plugin .hpi file.
 
+Testing
+
 
 To install:
 
